@@ -1,5 +1,6 @@
 # RC Lighting System - controlled by TX
-Complete solution of LED lighting system for small plane. Controlled by Transmitter utilizing one PWM channel. Based on the PWM value you can either switch **Strobe light** on **Taxi / Landing lights** 
+A complete solution of LED lighting system for small plane. Controlled by Transmitter utilizing one PWM channel. Based on the PWM value you can either switch **Strobe light** or **Taxi / Landing lights**  on
+
 
 
 ![alt text](https://github.com/CodeWorksCZ/Controllable-RC-Lighting-System/blob/master/Enclosure%20Files%20-%203D%20Printed/Enclosure%20with%20PCB.png)
