@@ -48,7 +48,6 @@ void loop() {
     digitalWrite(WHITE_LANDING_LED, HIGH);
   } else {
     digitalWrite(WHITE_LANDING_LED, LOW);
-
   }
 
   delay(1000);
@@ -68,21 +67,10 @@ void blinkBeaconWhite() {
   digitalWrite(WHITE_LED, HIGH);
   delay(10);
   digitalWrite(WHITE_LED, LOW);
-
 }
 
 void switchBeaconOff() {
   digitalWrite(WHITE_LED, LOW);
   digitalWrite(RED_LED, LOW);
-
 }
 
-void switchLandingLightsOn() {
-  digitalWrite(WHITE_LANDING_LED, HIGH);
-
-}
-
-void switchLandingLightsOff() {
-  digitalWrite(WHITE_LANDING_LED, LOW);
-
-}
