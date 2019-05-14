@@ -1,3 +1,5 @@
+#include "Arduino.h"
+
 //Solid LED
 const int GREEN_AND_RED_LED = 2;
 //Flashing LED
