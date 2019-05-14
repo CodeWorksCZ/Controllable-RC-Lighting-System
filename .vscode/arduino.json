@@ -1,5 +1,0 @@
-{
-    "programmer": "AVR ISP",
-    "board": "diy_attiny:avr:attiny13_diy",
-    "configuration": "boot=none,clock=9_6MHz,core=MillisCore,millis_ppm=1p6,print=BinHexDec,serial=HalfDuplexRW,lto=enable,bodlevel=2v7,advclk=auto,advfrq=auto"
-}
